@@ -1,0 +1,4 @@
+
+# Local deploy key (do not commit)
+.github_deploy_key
+.github_deploy_key.pub
